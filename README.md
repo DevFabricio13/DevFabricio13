@@ -53,6 +53,8 @@ Sou um profissional dedicado e apaixonado por tecnologia, empenhado em construir
 
 </div>
 
+> **💡 Dica:** O Snake Game é gerado automaticamente baseado nas suas contribuições do GitHub. Quanto mais commits você fizer, mais interessante ficará a animação!
+
 ## 📞 Contato
 
 <div align="center">
