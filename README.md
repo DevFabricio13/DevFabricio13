@@ -32,7 +32,7 @@ Sou um profissional dedicado e apaixonado por tecnologia, empenhado em construir
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Status de Aprendizado
-![Node.js](https://img.shields.io/badge/Node.js-Em%20Aprendizado-yellow?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Em%20Especialização-yellow?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediário-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📊 Estatísticas do GitHub
